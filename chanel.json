@@ -2,31 +2,100 @@
   
   "Categories":[
     {
-      "CategoryName":"Channels",
+      "CategoryName":"juventus fc (18:00) torino",
       "ChannelsList":[
         {
-          "ChannelName":"working",
-          "ChannelDescription":"test1channelpos1",
-          "ChannelLogo":"https://archive.org/download/pngtree-live-stream-icon-design-template-vector-isolated-png-image_2370012/pngtree-live-stream-icon-design-template-vector-isolated-png-image_2370012.jpg",
-          "ChannelLink":"",
-          "Play_In":"app"
-        },
-        {
-          "ChannelName":"working",
-          "ChannelDescription":"test1channelpos1",
-          "ChannelLogo":"https://archive.org/download/pngtree-live-stream-icon-design-template-vector-isolated-png-image_2370012/pngtree-live-stream-icon-design-template-vector-isolated-png-image_2370012.jpg",
-          "ChannelLink":"",
-          "Play_In":"app"
-        },
-        {
-          "ChannelName":"working",
-          "ChannelDescription":"test1channelpos1",
-          "ChannelLogo":"https://archive.org/download/pngtree-live-stream-icon-design-template-vector-isolated-png-image_2370012/pngtree-live-stream-icon-design-template-vector-isolated-png-image_2370012.jpg",
+          "ChannelName":"Working",
+          "ChannelDescription":"Serie A",
+          "ChannelLogo":"https://png.pngtree.com/png-clipart/20200701/original/pngtree-red-banner-live-streaming-hd-png-image_5392751.jpg",
           "ChannelLink":"",
           "Play_In":"app"
         }
         ]
-
+    },
+        {
+      "CategoryName":"madrid (18:30) mallorca",
+      "ChannelsList":[
+        {
+          "ChannelName":"working",
+          "ChannelDescription":"Laliga",
+          "ChannelLogo":"https://png.pngtree.com/png-clipart/20200701/original/pngtree-red-banner-live-streaming-hd-png-image_5392751.jpg",
+          "ChannelLink":"",
+          "Play_In":"app"
+        }
+        ]
+     },
+        {
+      "CategoryName":"barcelona (21:00) cádiz",
+      "ChannelsList":[
+        {
+          "ChannelName":"working",
+          "ChannelDescription":"Laliga",
+          "ChannelLogo":"https://png.pngtree.com/png-clipart/20200701/original/pngtree-red-banner-live-streaming-hd-png-image_5392751.jpg",
+          "ChannelLink":"",
+          "Play_In":"app"
+        }
+        ]
+     },
+        {
+      "CategoryName":"manchester united (18:30) bournemouth",
+      "ChannelsList":[
+        {
+          "ChannelName":"working",
+          "ChannelDescription":"Laliga",
+          "ChannelLogo":"https://png.pngtree.com/png-clipart/20200701/original/pngtree-red-banner-live-streaming-hd-png-image_5392751.jpg",
+          "ChannelLink":"",
+          "Play_In":"app"
+        }
+        ]
+     },
+        {
+      "CategoryName":"Chanell",
+      "ChannelsList":[
+        {
+          "ChannelName":"working",
+          "ChannelDescription":"not yet",
+          "ChannelLogo":"https://png.pngtree.com/png-clipart/20200701/original/pngtree-red-banner-live-streaming-hd-png-image_5392751.jpg",
+          "ChannelLink":"",
+          "Play_In":"app"
+        }
+        ]          
+   },
+        {
+      "CategoryName":"Channel",
+      "ChannelsList":[
+        {
+          "ChannelName":"working",
+          "ChannelDescription":"test1channelpos1",
+          "ChannelLogo":"https://png.pngtree.com/png-clipart/20200701/original/pngtree-red-banner-live-streaming-hd-png-image_5392751.jpg",
+          "ChannelLink":"",
+          "Play_In":"app"
+        }
+        ]       
+      },
+        {
+      "CategoryName":"Channel",
+      "ChannelsList":[
+        {
+          "ChannelName":"working",
+          "ChannelDescription":"test1channelpos1",
+          "ChannelLogo":"https://png.pngtree.com/png-clipart/20200701/original/pngtree-red-banner-live-streaming-hd-png-image_5392751.jpg",
+          "ChannelLink":"",
+          "Play_In":"app"
+        }
+        ]       
+    },
+        {
+      "CategoryName":"Channel",
+      "ChannelsList":[
+        {
+          "ChannelName":"working",
+          "ChannelDescription":"test1channelpos1",
+          "ChannelLogo":"https://png.pngtree.com/png-clipart/20200701/original/pngtree-red-banner-live-streaming-hd-png-image_5392751.jpg",
+          "ChannelLink":"",
+          "Play_In":"app"
+        }
+        ]
     }
     
     ],
@@ -35,10 +104,10 @@
         "EventDescription":"working",
         "FirstTeamName":"tes1",
         "SecondTeamName":"test2",
-        "FirstTeamLogo":"",
-        "SecondTeamLogo":"",
+        "FirstTeamLogo":"https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
+        "SecondTeamLogo":"https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/1200px-FC_Barcelona_%28crest%29.svg.png",
         "MatchTime":"Live Now",
-        "MatchLink":"",
+        "MatchLink":"https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
         "Play_In":"app"
         
       }
