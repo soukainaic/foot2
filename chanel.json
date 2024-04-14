@@ -1,11 +1,61 @@
 {
-        {
-      "CategoryName":"Chanell",
+  
+  "Categories":[
+    {
+      "CategoryName":"Channel",
       "ChannelsList":[
         {
           "ChannelName":"working",
-          "ChannelDescription":"not yet",
-          "ChannelLogo":"https://png.pngtree.com/png-clipart/20200701/original/pngtree-red-banner-live-streaming-hd-png-image_5392751.jpg",
+          "ChannelDescription":"test1channelpos1",
+          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
+          "ChannelLink":"",
+          "Play_In":"app"
+        }
+        ]
+    },
+        {
+      "CategoryName":"Channel",
+      "ChannelsList":[
+        {
+          "ChannelName":"working",
+          "ChannelDescription":"test1channelpos1",
+          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
+          "ChannelLink":"",
+          "Play_In":"app"
+        }
+        ]
+     },
+        {
+      "CategoryName":"Channel",
+      "ChannelsList":[
+        {
+          "ChannelName":"working",
+          "ChannelDescription":"test1channelpos1",
+          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
+          "ChannelLink":"",
+          "Play_In":"app"
+        }
+        ]
+     },
+        {
+      "CategoryName":"Channel",
+      "ChannelsList":[
+        {
+          "ChannelName":"working",
+          "ChannelDescription":"test1channelpos1",
+          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
+          "ChannelLink":"",
+          "Play_In":"app"
+        }
+        ]
+     },
+        {
+      "CategoryName":"Channel",
+      "ChannelsList":[
+        {
+          "ChannelName":"working",
+          "ChannelDescription":"test1channelpos1",
+          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
           "ChannelLink":"",
           "Play_In":"app"
         }
@@ -17,7 +67,7 @@
         {
           "ChannelName":"working",
           "ChannelDescription":"test1channelpos1",
-          "ChannelLogo":"https://png.pngtree.com/png-clipart/20200701/original/pngtree-red-banner-live-streaming-hd-png-image_5392751.jpg",
+          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
           "ChannelLink":"",
           "Play_In":"app"
         }
@@ -29,7 +79,7 @@
         {
           "ChannelName":"working",
           "ChannelDescription":"test1channelpos1",
-          "ChannelLogo":"https://png.pngtree.com/png-clipart/20200701/original/pngtree-red-banner-live-streaming-hd-png-image_5392751.jpg",
+          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
           "ChannelLink":"",
           "Play_In":"app"
         }
@@ -41,7 +91,7 @@
         {
           "ChannelName":"working",
           "ChannelDescription":"test1channelpos1",
-          "ChannelLogo":"https://png.pngtree.com/png-clipart/20200701/original/pngtree-red-banner-live-streaming-hd-png-image_5392751.jpg",
+          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
           "ChannelLink":"",
           "Play_In":"app"
         }
