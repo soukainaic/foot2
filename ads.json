@@ -1,7 +1,7 @@
  {"ads":{
 
- "ShowAds":false,
-    "ShowLoadingAds":false,
+ "ShowAds":true,
+    "ShowLoadingAds":true,
     "ClickCount":1,
     "PriorityBanner":"admob",
     "priorityInterstitial":"admob",
@@ -18,10 +18,10 @@
     "FanBanner":"",
     "FanInterstitial":"",
     "FanNative":"",
-    "AdmobBanner":"",
-    "AdmobInterstitial":"",
-    "AdmobNative":"",
-    "admob_reward":""
+    "AdmobBanner":"ca-app-pub-1563977956808072/6535747827",
+    "AdmobInterstitial":"ca-app-pub-1563977956808072/7299516226",
+    "AdmobNative":"ca-app-pub-1563977956808072/5487741100",
+    "admob_reward":"ca-app-pub-1563977956808072/5207188438"
   },
   "ControlApp":{
  "PlayerPackageName": "",
