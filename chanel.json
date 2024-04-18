@@ -56,7 +56,7 @@
           "ChannelName":"working",
           "ChannelDescription":"europa league",
           "ChannelLogo":"https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-tv-bubble-live-broadcast-pattern-png-image_2473429.jpg",
-          "ChannelLink":"https://prod-fastly-us-west-1.video.pscp.tv/Transcoding/v1/hls/4HteflN9g85avSelP2cAmY0h24v268bkgQWjbO2ESEH5cB3sd0WT49Uo7ozPIN7WcqSL6p8s5HmmyBy9mje5Kg/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_delta.m3u8?type=live&_HLS_skip=YES",
+          "ChannelLink":"",
           "Play_In":"app"
         }
         ]          
@@ -68,7 +68,7 @@
           "ChannelName":"working",
           "ChannelDescription":"europa league",
           "ChannelLogo":"https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-tv-bubble-live-broadcast-pattern-png-image_2473429.jpg",
-          "ChannelLink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/ydlnOvqzE7zlE4oHOfK7k_I9Gd9z7cgnzYB1RoA8adQLd6wdNswoc69d0gr2gcbS1wm-vxmwGSE7tcpVJik9kg/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_delta.m3u8?type=live&_HLS_skip=YES",
+          "ChannelLink":"",
           "Play_In":"app"
         }
         ]       
