@@ -2,28 +2,23 @@
   
   "Categories":[
     {
-      "CategoryName":"Channel",
-      "ChannelsList":[{
-  
-  "Categories":[
-    {
-      "CategoryName":"atalanta (18:45) verona hellas",
+      "CategoryName":"qatar vs jordan",
       "ChannelsList":[
         {
           "ChannelName":"working",
-          "ChannelDescription":"Serie A",
+          "ChannelDescription":"qatar vs jordan",
           "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
-          "ChannelLink":"",
+          "ChannelLink":"chrome-extension://gijhpnmjcpbddpedmmdihijogkkejfgj/player.html#https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/L7457TAbmlaXwbvj7J727wO3V6q0yqWbg8-rWH6HV1aliyfsZBCYoXY3Jp6Agv5jMv67ssY_ECFGILoii38-fg/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_delta.m3u8?type=live&_HLS_skip=YES",
           "Play_In":"app"
         }
         ]
     },
         {
-      "CategoryName":"al ahly sc (18:00) zamalek",
+      "CategoryName":"chanell",
       "ChannelsList":[
         {
           "ChannelName":"working",
-          "ChannelDescription":"Egyptian Premier League",
+          "ChannelDescription":"",
           "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
           "ChannelLink":"",
           "Play_In":"app"
@@ -31,11 +26,11 @@
         ]
      },
         {
-      "CategoryName":"chelsea (21:00) everton",
+      "CategoryName":"chanell",
       "ChannelsList":[
         {
           "ChannelName":"working",
-          "ChannelDescription":"Premier League",
+          "ChannelDescription":"",
           "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
           "ChannelLink":"",
           "Play_In":"app"
@@ -43,121 +38,11 @@
         ]
      },
         {
-      "CategoryName":"valencia cf (21:00) osasuna",
+      "CategoryName":"chanell",
       "ChannelsList":[
         {
           "ChannelName":"working",
-          "ChannelDescription":"Laliga",
-          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
-          "ChannelLink":"",
-          "Play_In":"app"
-        }
-        ]
-     },
-        {
-      "CategoryName":"Channel",
-      "ChannelsList":[
-        {
-          "ChannelName":"working",
-          "ChannelDescription":"test1channelpos1",
-          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
-          "ChannelLink":"",
-          "Play_In":"app"
-        }
-        ]          
-   },
-        {
-      "CategoryName":"Channel",
-      "ChannelsList":[
-        {
-          "ChannelName":"working",
-          "ChannelDescription":"test1channelpos1",
-          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
-          "ChannelLink":"",
-          "Play_In":"app"
-        }
-        ]       
-      },
-        {
-      "CategoryName":"Channel",
-      "ChannelsList":[
-        {
-          "ChannelName":"working",
-          "ChannelDescription":"test1channelpos1",
-          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
-          "ChannelLink":"",
-          "Play_In":"app"
-        }
-        ]       
-    },
-        {
-      "CategoryName":"Channel",
-      "ChannelsList":[
-        {
-          "ChannelName":"working",
-          "ChannelDescription":"test1channelpos1",
-          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
-          "ChannelLink":"",
-          "Play_In":"app"
-        }
-        ]
-    }
-    
-    ],
-  "Events":[
-      {
-        "EventDescription":"working",
-        "FirstTeamName":"tes1",
-        "SecondTeamName":"test2",
-        "FirstTeamLogo":"https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
-        "SecondTeamLogo":"https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/1200px-FC_Barcelona_%28crest%29.svg.png",
-        "MatchTime":"Live Now",
-        "MatchLink":"https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-        "Play_In":"app"
-        
-      }
-      ]
-}
-
-        {
-          "ChannelName":"working",
-          "ChannelDescription":"test1channelpos1",
-          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
-          "ChannelLink":"",
-          "Play_In":"app"
-        }
-        ]
-    },
-        {
-      "CategoryName":"Channel",
-      "ChannelsList":[
-        {
-          "ChannelName":"working",
-          "ChannelDescription":"test1channelpos1",
-          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
-          "ChannelLink":"",
-          "Play_In":"app"
-        }
-        ]
-     },
-        {
-      "CategoryName":"Channel",
-      "ChannelsList":[
-        {
-          "ChannelName":"working",
-          "ChannelDescription":"test1channelpos1",
-          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
-          "ChannelLink":"",
-          "Play_In":"app"
-        }
-        ]
-     },
-        {
-      "CategoryName":"Channel",
-      "ChannelsList":[
-        {
-          "ChannelName":"working",
-          "ChannelDescription":"test1channelpos1",
+          "ChannelDescription":"",
           "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
           "ChannelLink":"",
           "Play_In":"app"
